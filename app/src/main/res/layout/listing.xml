@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:scrollbarSize="24px"
+    android:textAlignment="center"
+    android:translationY="100px"
+    android:translationX="-300px"
+    android:layout_width="400px"
+    android:layout_height="wrap_content"
+>
+</ListView>
