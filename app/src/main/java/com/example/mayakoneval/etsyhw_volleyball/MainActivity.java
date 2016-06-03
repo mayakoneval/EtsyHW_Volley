@@ -32,7 +32,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
     Button mButton;
     EditText mEdit;
-    String words;
+    String words, test;
     static Context context;
     private static ListView mainListView;
     private static ArrayAdapter<String> listAdapter;
